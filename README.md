@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Car Showcase Website
 
-## Getting Started
+This website serves as a platform for showcasing a wide variety of vehicles, providing users with the ability to explore cars from different manufacturers, models, filter by fuel types, and years. The project leverages two different APIs to deliver comprehensive car data and information.
 
-First, run the development server:
+## Technologies Used
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Framework**: Next.js, a React framework for building web applications.
+- **Language**: TypeScript, for strong typing and enhanced development experience.
+- **Styling**: Tailwind CSS, a utility-first CSS framework for rapid UI development.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Car Search**: Users can search for cars based on various criteria, including brand, model, fuel type, and year.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Car Details**: Clicking on a specific car provides detailed information, such as specifications, images, and more.
 
-## Learn More
+- **API Integration**: The website utilizes two different APIs to fetch and display car data, ensuring a comprehensive and up-to-date showcase.
 
-To learn more about Next.js, take a look at the following resources:
+- **Responsive Design**: The website is optimized for various screen sizes, providing an optimal user experience on both desktop and mobile devices.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+ [Link to the project!](https://jaguero-carshowcase.netlify.app/)
